@@ -15,5 +15,5 @@ int main(){
     scanf("%s", lastname);
     printf("Enter your age:\n");
     scanf("%f", &age);
-    printf("Enter your blood type:\n");
+    printf("Enter your state:\n");
     scanf("%s", state);
